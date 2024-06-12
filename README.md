@@ -5,9 +5,9 @@
 
 
 <h1 align="center">👋 Hi, I'm Micheal Worrell</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/u/161525282?v=4" alt="Micheal Worrell" width="150">
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01dca086e5a4fcde96"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork" alt="Upwork"></a>
